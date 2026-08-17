@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Aesthetic Header Banner -->
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61AFEF,100:98C379&height=200&section=header&text=Welcome%20to%20my%20Space%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br />
@@ -14,7 +14,7 @@
     <b>🚀 Tech Enthusiast | 💻 Developer | 🎯 Problem Solver</b>
   </p>
 
-  <!-- Glowing Badges -->
+  <!-- Badges -->
   <p align="center">
     <a href="mailto:sumankumar4685865@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -33,7 +33,7 @@
 
 ### 👨‍💻 About Me
 
-<table border="0">
+<table>
   <tr>
     <td width="60%">
       <p>
@@ -66,15 +66,19 @@
 ### 📈 GitHub Profile Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-Kumar11&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Kumar11&layout=compact&theme=dracula&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Kumar11&theme=dracula&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61AFEF,100:98C379&height=120&section=footer" width="100%" />
+
+  <sub><i>Designed with ❤️ by Satyam Kumar</i></sub>
+
+</div>
 
 <div align="center">
   
