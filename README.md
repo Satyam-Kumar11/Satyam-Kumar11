@@ -14,7 +14,7 @@
     <b>🚀 Tech Enthusiast | 💻 Developer | 🎯 Problem Solver</b>
   </p>
 
-  <!-- Badges -->
+  <!-- Contact Badges -->
   <p align="center">
     <a href="mailto:sumankumar4685865@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -33,25 +33,14 @@
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-        Hi, I'm <b>Satyam Kumar</b>! A passionate and driven developer dedicated to crafting clean code, learning core engineering concepts, and building impactful digital solutions.
-      </p>
-      <ul>
-        <li>🎓 <b>Background:</b> Computer Science / Software Engineering</li>
-        <li>🔭 <b>Current Focus:</b> Deepening Core Programming & Full-Stack Fundamentals</li>
-        <li>💡 <b>Languages:</b> C, Java, Python, HTML, CSS</li>
-        <li>📧 <b>Email:</b> <a href="mailto:sumankumar4685865@gmail.com">sumankumar4685865@gmail.com</a></li>
-        <li>📞 <b>Contact:</b> +91 6202699818</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgTM/giphy.gif" width="100%" alt="Coding Gif" />
-    </td>
-  </tr>
-</table>
+Hi! I'm **Satyam Kumar**, a passionate developer focused on building clean, efficient, and user-friendly software solutions while constantly expanding my technical skillset.
+
+- 🎓 **Background:** Computer Science / Software Engineering
+- 🔭 **Current Focus:** Deepening Core Programming & Web Development
+- 💡 **Primary Skills:** C, Java, Python, HTML, CSS
+- 📧 **Email:** [sumankumar4685865@gmail.com](mailto:sumankumar4685865@gmail.com)
+- 📞 **Contact:** [+91 6202699818](tel:+916202699818)
+- ⚡ **Fun Fact:** I enjoy exploring new technology trends and tweaking UI designs!
 
 ---
 
@@ -59,15 +48,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,c,java,py,git,github,vscode&perline=8" />
-</p>
-
----
-
-### 📈 GitHub Profile Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
