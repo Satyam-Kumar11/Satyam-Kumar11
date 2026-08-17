@@ -60,11 +60,3 @@ Hi! I'm **Satyam Kumar**, a passionate developer focused on building clean, effi
 
 </div>
 
-<div align="center">
-  
-  <!-- Animated Footer Waving Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61AFEF,100:98C379&height=120&section=footer" width="100%" />
-
-  <sub><i>Designed with ❤️ by Satyam Kumar</i></sub>
-
-</div>
