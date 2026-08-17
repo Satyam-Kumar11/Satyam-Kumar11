@@ -1,25 +1,86 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
+  <!-- Aesthetic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61AFEF,100:98C379&height=200&section=header&text=Welcome%20to%20my%20Space%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+  <br />
+
+  <!-- Animated Typing Text -->
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+there!+👋;Welcome+to+my+GitHub+profile...;I'm+Satyam+Kumar!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1200&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+there!+👋;Welcome+to+my+GitHub+profile...;I'm+Satyam+Kumar!" alt="Typing SVG" />
   </a>
 
-  <p><b>Developer | Tech Enthusiast | Problem Solver</b></p>
+  <p align="center">
+    <b>🚀 Tech Enthusiast | 💻 Developer | 🎯 Problem Solver</b>
+  </p>
 
-  <!-- Social & Contact Badges -->
-  <p>
-    <a href="mailto:sumankumar4685865@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="tel:+916202699818"><img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!-- Glowing Badges -->
+  <p align="center">
+    <a href="mailto:sumankumar4685865@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="tel:+916202699818">
+      <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
   </p>
 
 </div>
 
-<br />
+---
 
 ### 👨‍💻 About Me
 
-```text
-Hi, I'm Satyam! A passionate developer focused on solving complex problems, 
-building software, and continuously expanding my technical skill set.
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>
+        Hi, I'm <b>Satyam Kumar</b>! A passionate and driven developer dedicated to crafting clean code, learning core engineering concepts, and building impactful digital solutions.
+      </p>
+      <ul>
+        <li>🎓 <b>Background:</b> Computer Science / Software Engineering</li>
+        <li>🔭 <b>Current Focus:</b> Deepening Core Programming & Full-Stack Fundamentals</li>
+        <li>💡 <b>Languages:</b> C, Java, Python, HTML, CSS</li>
+        <li>📧 <b>Email:</b> <a href="mailto:sumankumar4685865@gmail.com">sumankumar4685865@gmail.com</a></li>
+        <li>📞 <b>Contact:</b> +91 6202699818</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgTM/giphy.gif" width="100%" alt="Coding Gif" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,c,java,py,git,github,vscode&perline=8" />
+</p>
+
+---
+
+### 📈 GitHub Profile Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-Kumar11&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Kumar11&layout=compact&theme=dracula&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Kumar11&theme=dracula&hide_border=true" width="100%" />
+</p>
+
+---
+
+<div align="center">
+  
+  <!-- Animated Footer Waving Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61AFEF,100:98C379&height=120&section=footer" width="100%" />
+
+  <sub><i>Designed with ❤️ by Satyam Kumar</i></sub>
+
+</div>
